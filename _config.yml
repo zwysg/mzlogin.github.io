@@ -4,10 +4,10 @@
 baseurl:
 url: "http://zwysg.github.io"
 date_format: "ordinal"
-title: 码志
+title: 码农之始
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+description: "庄文跃的个人博客"
+keywords: 码农, 博客, zwysg, zhuangwenyue
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
