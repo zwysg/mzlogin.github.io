@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: http://mazhuang.org
+baseurl:/mzlogin.github.io
+url: 
 date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
@@ -11,7 +11,7 @@ keywords: 码志, Zhuang Ma, mzlogin, mazhuang
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
-source_code: https://github.com/mzlogin/mzlogin.github.io
+source_code: https://github.com/zwysg/mzlogin.github.io
 side_bar_repo_limit: 5
 
 # ---------------- #
